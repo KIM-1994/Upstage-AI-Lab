@@ -12,3 +12,4 @@
 
 ### :bell: OT
 
+[![Tech Blog Badge](https://img.shields.io/badge/-Fastcampus-%23FF5722?style=flat&logo=blogger&logo)]
